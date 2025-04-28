@@ -23,6 +23,9 @@ O objetivo do projeto é criar uma aplicação que permita a troca de mensagens 
 - **Estilo diferenciado para mensagens**: alinhamento à esquerda/direita e cores personalizadas para cada remetente.
 - **Exibição das fotos de perfil** dos remetentes ao lado das mensagens.
 
+
+![Novo.png](Novo.png)
+
 ---
 
 ## :scroll: Características
