@@ -3,7 +3,7 @@
 ![Badge React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Badge React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Badge Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)  
-![Badge version](https://img.shields.io/badge/version-1.0-blue)  
+![Badge version](https://img.shields.io/badge/version-1.0-blue) 
 
 Aplicativo de chat simples utilizando React Native e Expo para troca de mensagens entre dois usuários.
 
@@ -47,6 +47,7 @@ npm install
 Inicie o servidor Expo:
 
 expo start
+
 ✔️ Técnicas e tecnologias utilizadas
 React Native
 
