@@ -36,7 +36,7 @@ Você pode baixar o código-fonte e rodá-lo no seu ambiente local, utilizando o
 **Instruções para rodar o projeto**:
 
 
-git clone https://github.com/username/talker-app.git
+git clone [https://github.com/username/talker-app.git](https://github.com/joaohgoncalves/Website-Juridico-Template-WordPress-com-Elementor.git)
 Acesse o diretório do projeto:
 
 
@@ -45,7 +45,6 @@ Instale as dependências:
 
 npm install
 Inicie o servidor Expo:
-
 
 expo start
 ✔️ Técnicas e tecnologias utilizadas
