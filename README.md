@@ -44,7 +44,7 @@ Clone o repositório e execute o projeto localmente usando o Expo:
 1. **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/username/talker-app.git
+    git clone https://github.com/joaohgoncalves/Website-Juridico-Template-WordPress-com-Elementor.git
     ```
 
 2. **Acesse o diretório do projeto:**
