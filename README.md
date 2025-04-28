@@ -1,76 +1,87 @@
-# **Talker App**
+# **Talker App** 
 
 ![Badge React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Badge React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Badge Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)  
-![Badge version](https://img.shields.io/badge/version-1.0-blue) 
+![Badge version](https://img.shields.io/badge/version-1.0-blue)  
 
-Aplicativo de chat simples utilizando React Native e Expo para troca de mensagens entre dois usuários.
+## Descrição
 
-## **Objetivo**
+O **Talker App** é um aplicativo de chat simples desenvolvido com **React Native** e **Expo** para simular a troca de mensagens entre dois usuários. Ele oferece uma interface moderna e interativa, onde é possível alternar entre os remetentes de forma prática e enviar mensagens em tempo real.
 
-Desenvolver um aplicativo de chat para simular a troca de mensagens entre dois usuários, com uma interface moderna e interativa, utilizando React Native.
+---
 
-## :hammer: **Funcionalidades**
+## :dart: Objetivo
 
-- **Troca de mensagens entre dois usuários** (Van Damme e Sylvester Stallone) com a exibição do nome e foto do perfil de cada um.
-- **Enviar e visualizar mensagens em tempo real.**
-- **Alternar entre os remetentes** com um botão de alternância.
-- **Mostrar o horário de envio de cada mensagem.**
-- **Estilizar as mensagens** de acordo com o remetente, alinhando à esquerda ou direita e com cores diferentes.
-- **Exibir a foto do perfil** do remetente junto à mensagem.
-- **Possibilidade de alternar entre os remetentes** de forma fácil e rápida.
+O objetivo do projeto é criar uma aplicação que permita a troca de mensagens em tempo real entre dois usuários com uma interface limpa e intuitiva. Além disso, o app permite alternar rapidamente entre remetentes e estilizar as mensagens de maneira visualmente atraente.
 
-## :scroll: **Características**
+---
 
-- **Alternar rapidamente entre os remetentes**, trocando o nome, a foto do perfil e a cor das mensagens.
-- **Scroll automático** para a última mensagem quando o chat for atualizado.
-- **Estilo de mensagens** que facilita a visualização das conversas, com diferenciação clara entre os remetentes.
-- **Interface com fundo personalizado** e barra de navegação simples e intuitiva.
-- **Funcionalidade de envio de mensagens** de forma rápida e eficiente.
+## :hammer: Funcionalidades
 
-## 📁 **Acesso ao projeto**
+- **Troca de mensagens entre dois usuários** (Van Damme e Sylvester Stallone), com nome e foto de perfil.
+- **Envio e visualização de mensagens em tempo real**.
+- **Alternância de remetentes** com um botão para trocar o remetente da conversa.
+- **Exibição do horário de envio** de cada mensagem.
+- **Estilo diferenciado para mensagens**: alinhamento à esquerda/direita e cores personalizadas para cada remetente.
+- **Exibição das fotos de perfil** dos remetentes ao lado das mensagens.
 
-Você pode baixar o código-fonte e rodá-lo no seu ambiente local, utilizando o Expo para testar o aplicativo.
+---
 
-**Instruções para rodar o projeto**:
+## :scroll: Características
 
+- **Alternância rápida entre remetentes**, com troca do nome, foto de perfil e cor das mensagens.
+- **Scroll automático** para a última mensagem, facilitando a navegação no chat.
+- **Design responsivo e moderno** com diferenciação clara entre os remetentes.
+- **Barra de navegação simples** e intuitiva.
+- **Envio rápido de mensagens**, com interface fluida.
 
-git clone [https://github.com/username/talker-app.git](https://github.com/joaohgoncalves/Website-Juridico-Template-WordPress-com-Elementor.git)
-Acesse o diretório do projeto:
+---
 
+## 📁 Acesso ao Projeto
 
-cd talker-app
-Instale as dependências:
+Clone o repositório e execute o projeto localmente usando o Expo:
 
-npm install
-Inicie o servidor Expo:
+### Passos para rodar o projeto:
 
-expo start
+1. **Clone o repositório:**
 
-✔️ Técnicas e tecnologias utilizadas
-React Native
+    ```bash
+    git clone https://github.com/username/talker-app.git
+    ```
 
-Expo
+2. **Acesse o diretório do projeto:**
 
-JavaScript (ES6)
+    ```bash
+    cd talker-app
+    ```
 
-Hooks (useState, useEffect, useRef)
+3. **Instale as dependências:**
 
-React Navigation
+    ```bash
+    npm install
+    ```
 
-FlatList
+4. **Inicie o servidor Expo:**
 
-Styled Components
+    ```bash
+    expo start
+    ```
 
-Image Background
+---
 
+## ✔️ Técnicas e Tecnologias Utilizadas
 
+- **React Native**
+- **Expo**
+- **JavaScript (ES6)**
+- **Hooks (useState, useEffect, useRef)**
+- **React Navigation**
+- **FlatList**
+- **Styled Components**
+- **Image Background**
 
-Esse é o formato pronto para ser utilizado em um repositório no GitHub ou em qualquer outro local que aceite markdown!
+---
 
-
-
-
-
+Sinta-se à vontade para fazer contribuições, abrir problemas ou sugerir melhorias!
 
